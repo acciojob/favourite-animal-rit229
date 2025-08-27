@@ -1,2 +1,10 @@
 
 /* Your CSS Code here. */
+body {
+    text-align: center;
+}
+
+img {
+    width: 300px; /* Adjust the size as needed */
+    height: auto;
+}
