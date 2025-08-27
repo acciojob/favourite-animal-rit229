@@ -1,2 +1,4 @@
 //your code here
-console.log("Welcome to my favourite animal page!");
+function showMessage() {
+    alert("Welcome to my favourite animal page!");
+}
